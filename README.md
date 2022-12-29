@@ -4,6 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This code was created by me to start learning react
 
-## What is this project about
-
-This project is a simple card creator for motorcycles to sell
+This project is a simple card creator with motorbike informations
